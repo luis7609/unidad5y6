@@ -1,0 +1,448 @@
+la unidad 5! 
+En la actualidad, los robots se usan de manera extensa en diferentes áreas, sobre todo en el área industrial, ya que se ha convertido en un elemento indispensable en una gran parte de los procesos de manufactura. Impulsados principalmente por el sector automotriz.
+Los robots han dejado de ser máquinas misteriosas propias de la ciencia ficción para ser un elemento más de ayuda y convivencia para el ser humano.
+En la década de los ochenta, empezaron a desarrollarse robots destinados a trabajar en aplicaciones no industriales. En estas nuevas aplicaciones el robot aporta el eximir al humano de tareas peligrosas o el ampliar sus capacidades de fuerza o precisión. La utilización de estos robots, que se han venido a denominar genéricamente robots de servicio, no se realiza a gran escala, esto es, no trabajan en largas líneas de producción, sino en aplicaciones singulares como ambientes contaminados, salas asépticas, construcción, quirófano, etc. En la actualidad, la robótica ha abordado un nuevo mercado: el doméstico. Éste posee unas características comerciales particulares y unas necesidades tecnológicas singulares, sus aplicaciones van desde el entretenimiento o la atención personal hasta la realización de labores domésticas.
+En esta semana se contemplarán las tareas de los robots más frecuentes, destacando las posibilidades del robot y sus ventajas frente a otras alternativas. Asimismo, se revisan las aplicaciones de los robots, tratando de mostrar, cuáles son los cometidos que pueden ser encomendados a un robot.
+“Pregúntate si lo que estás haciendo hoy, te acerca al lugar en el que quieres estar mañana“ Walt Disney
+¡Éxito en esta quinta unidad!
+ 
+Al término de esta unidad lograrás:
+•	Relacionar los ámbitos en los que un robot puede tener participación y las tareas en las que puede ser asignado un robot como ayuda o complemento al trabajo humano.
+•	Elaborar una guía la cual tendrá propósitos de estudio y repaso de los temas vistos con anterioridad, más carecerá de valor evaluativo.
+Los avances tecnológicos han hecho de la vida más fácil, en diversas áreas que incluyen la intervención del hombre, con esto podemos decir que la robótica ha podido llegar a cualquier lugar y área en las que tal vez en algún momento se pensó fuera imposible.
+Una clasificación de las áreas de aplicación de la robótica puede ser la que se muestra a continuación.
+•	Búsqueda y rescate
+•	Robótica de asistencia
+•	Militar y policiaca
+•	Didáctica
+•	Espacial
+•	Hogar
+•	Industria
+•	Entretenimiento
+Con esta clasificación se pueden abarcar todas las áreas en las que actualmente se ven inmiscuidos los robots.
+Las operaciones de búsqueda y rescate en desastres son un suceso de gran importancia social, en el que interactúan diversos agentes con diferentes características con un fin específico que es salvar vidas. Estos agentes tienen que enfrentarse a ambientes devastados y a factores que ponen en riesgo su integridad y disminuyen las probabilidades de éxito en los rescates.
+La robótica aplicada a la búsqueda y rescate es un campo de investigación amplio, activo para la industria de hoy; los robots tienden a ser ideales para trabajar en ambientes peligrosos para la vida humana, en esta área podemos visualizar algunas actividades y desarrollos que se han dado hasta la actualidad.
+ 
+El desafío en el desarrollo de robots de rescate es aumentar el conocimiento necesario para el dominio de los procesos de búsqueda y rescate de víctimas. Así mismo, realizar evaluaciones objetivas de las aplicaciones de la robótica en los ambientes representativos y promover la colaboración entre investigadores.
+Los robots demuestran sus capacidades en términos de movilidad, percepción sensorial, planificación, cartografía y unión de operaciones prácticas, mientras buscan víctimas simuladas en los ambientes de una construcción.
+Actualmente los robots de búsqueda y exploración tienen implementado un sistema de GPS, con el cual se puede determinar su posición, programarles una ruta a seguir determinada.
+ 
+Gracias a los avances de la ciencia y la tecnología, la vida del ser humano ha cambiado para bien en muchos aspectos. De hecho, una de las iniciativas cuya repercusión en el día a día de las personas es realmente determinante es la tecnología de asistencia.
+Con todos los avances de la robótica, ingeniería de materiales, big data o inteligencia artificial, la tecnología de asistencia se ha desarrollado a gran escala en la última década.
+La investigación del equipo de Robótica Médica se centra en el desarrollo de asistentes robóticos para cirugía. El objetivo se define como la creación de máquinas que no sustituyan al cirujano durante una intervención, sino que trabajen con él codo con codo.
+ 
+Pero no solo podemos hablar sobre asistencia para realizar operaciones, también en esta área de aplicación podemos considerar todos aquellos desarrollos, en donde un robot proporciona las herramientas o ayuda a las actividades requeridas para que el estado de salud de una persona pueda mejorar.
+Un robot de asistencia y de rehabilitación tiene como objetivos mejorar la autonomía de las personas dependientes, ya sean deficiencias motoras en personas mayores o en discapacitados.
+El lenguaje de signos es una herramienta primordial en la vida de las personas con sordera, pero el porcentaje de individuos que manejan este lenguaje es reducido, lo que da lugar a que no todo el mundo lo entienda.
+Para estos problemas, la tecnología puede ser una gran solución. Actualmente se ha desarrollado tecnología capaz de percibir el movimiento del cuerpo y manos mediante una cámara 3D, por lo que al recibir estos datos se puede generar una traducción y así interactuar con gestos y sonidos. Un ejemplo de esta tecnología es el robot llamado KinTrans o el robot TEO, que cuentan con estas habilidades.
+ 
+Gracias a la evolución de la robótica, las nuevas herramientas para personas con amputaciones cada vez son más complejas y están más perfeccionadas.
+Estas pueden tener distintas funcionalidades, como aquellas que disponen de terminaciones nerviosas, e incluso prótesis con cámaras incorporadas para tomar decisiones autónomas e inteligentes sobre las acciones que han de llevarse a cabo, contribuyendo a acelerar los tiempos de reacción.
+ 
+Para aquellas personas que han perdido la capacidad de caminar por sus propios medios, que la tecnología les permita volver a hacerlo supone una transformación completa de sus vidas. De hecho, existe una gran cantidad de proyectos innovadores a este respecto, desde escaleras equipadas con sensores de presión, hasta exoesqueletos modulares completos.
+Así como estas aplicaciones, hay muchas más en el campo médico, que aún siguen en desarrollo y que seguramente en un futuro, el tener alguna discapacidad no será un impedimento en ningún aspecto para llevar una vida normal.
+Es por todos bien conocido que los mayores avances en materia de tecnología se realizan durante las guerras, actualmente.
+Respecto a los robots en el aire, ya hay más de mil aviones sin piloto, desde los global hawks, que son aparatos de espionaje, hasta los letales predators, que son robots capaces de distinguir un objetivo y dispararle con diversos tipos de armas.
+En la gama actual de vehículos terrestres sin pilotos hay robots pequeños que parecen tanques de juguete, perfectos para inspeccionar vehículos bomba o, equipados con cámara, para reconocimientos en terreno peligroso. Hay otros más grandes que llevan ametralladoras o lanzan misiles.
+ 
+La robótica aérea, por su parte, empieza a superar la ciencia ficción. Se ha desarrollado un prototipo del avión sin piloto que se instala en submarinos. Al ser lanzado, flota hasta la superficie del mar, despega y lanza ataques con misil.
+Desde hace varias décadas existen numerosos programas militares que buscan sustituir a los soldados en batalla por máquinas. La guerra de Irak, trajo consigo un importante paso de la llamada era robótica, ya que se emplearon unidades automatizadas de manera sistemática para fines militares. Así, Estados Unidos es la primera nación del mundo en utilizar un gran número de robots para tareas de guerra. Para tener un sentido numérico, el uso de estos robots en la milicia subió de unas decenas de prototipos antes del 2002 a más de 12,000 unidades robóticas desplegadas en la tierra y más de 7,000 en el aire después del 2003.
+Existen numerosos modelos terrestres y aéreos operacionales capaces de volar o manejar sin humanos a bordo. Ya no son meramente experimentos beta, aun no prácticos para utilizar en el campo de guerra sino todo lo contrario. Después del 2003 hubo un crecimiento numérico inmenso, además de mejoras técnicas que se llevaban en investigación por más de dos décadas. La multiplicación exponencial desde el 2003, significó por un lado la creación de escuadrones dron, que pueden ser piloteados a control remoto o ser programados con su blanco. Los sistemas automatizados han brincado de ser unidades de apoyo, a unidades primarias de ataque.
+ 
+Peel es un robot que mide 1.68 metros, con el que se pueden realizar denuncias, hacer multas y se encarga de supervisar las áreas, aún carece de algún sistema que imponga respeto, pero a futuro se busca que pueda realizar esta tarea, así sin problema se podrá sustituir la plantilla conformada por humanos, por este tipo de sistemas.
+Más avanzado se dispone del sistema llamado K7, tiene una forma de auto y su diseño le permite desplazarse en cualquier terreno, cuenta con sensores de audio y video, es capaz de disuadir malos comportamientos, pero su inteligencia nunca se compara con la de un humano por lo que las decisiones en donde se involucre un juicio humano podrían causar conflictos con su comportamiento.
+La Robótica Educativa o didáctica es un medio de aprendizaje, en el que participan las personas que tienen motivación por el diseño y construcción de creaciones propias. Estas creaciones se dan en primera instancia de forma mental y posteriormente en forma física, son construidas con diferentes tipos de materiales, controladas por un sistema computacional, los que son llamados prototipos o simulaciones.
+En sus inicios los autómatas eran realizados con materiales fáciles de encontrar, ya sea con madera, cobre o cualquier otro material fácil de moldear. Actualmente ya se cuentan herramientas como las impresoras 3D con las cuales podemos fabricar piezas para la construcción de prototipos, el objetivo principal es comprobar el funcionamiento de un sistema, antes de ser fabricado para la aplicación deseada. Con esta prueba se pueden determinar fallas en el diseño o en la programación que se busca implementar.
+Por otra parte, también podemos considerar la robótica educativa que se hace presente en los salones de clases o todos aquellos en el que el propósito principal del robot es ayudar a aprender o comprender algún tema. Y esto se puede observar en diferentes formas.
+Normalmente se usan manipuladores de bajo costo, robots móviles y sistemas completos desarrollados para su utilización en los laboratorios educacionales.
+Debido a su bajo costo muchos de estos sistemas no poseen una fiabilidad en su sistema mecánico, tienen poca exactitud, no existen los sensores, en su mayoría carecen de software, pero ayudan a entender y comprender las bases que conforman estos sistemas.
+Los robots educativos tienen un funcionamiento similar al de los robots de compañía, pero su programación está dirigida a facilitar el aprendizaje de alguna materia o asunto en particular. Un ejemplo claro es el de los robots que les enseñan colores y formas a los niños por medio de una pantalla.
+Otros robots educativos se especializan en determinadas áreas o niveles de enseñanza, por ejemplo, algún idioma. Es mucho más fácil aprender inglés si se cuenta con un compañero para practicar, escuchar la pronunciación, que además, esté disponible todo el tiempo.
+Por eso, es común que estos robots tengan forma de robots, es decir, que se parezcan a los de las películas o los dibujos animados.
+Estos robots educativos combinan funciones recreativas, como disparar dardos o bailar, con funciones educativas, le hablan al niño en otro idioma o le piden resolver acertijos.
+Hay algunos que relatan historias en forma de cuento que explican las materias del colegio. También hay robots educativos especializados en lenguajes de programación con los que los niños se introducen en el complejo mundo de la informática.
+Y también existen robots educativos para adultos. Pueden ofrecer clases centradas en cualquier área de conocimiento, llevar programas de estudio e incluso pueden evaluar el rendimiento de los alumnos mediante un sistema de exámenes.
+ 
+La exploración del espacio presenta ciertos problemas para el uso de robots y también es un lugar hostil para el ser humano, ya que, se requiere de un equipo de protección muy costoso tanto en la Tierra como en el Espacio. Por tal motivo muchos científicos han sugerido que es necesario el uso de robots para continuar con los avances en la exploración espacial; pero como todavía no se llega a un grado de automatización tan precisa para esta aplicación, el ser humano aún no ha podido ser reemplazado por estos sistemas.
+Por otro lado, los tele-operadores han sido utilizados para realizar tareas en los transbordadores espaciales. En marzo de 1982 el transbordador Columbia fue el primero en utilizar este tipo de robots, aunque el ser humano participa en la realización del control de lazo cerrado.
+También se realizan algunas investigaciones, que están encaminadas al diseño, construcción, control de vehículos autónomos, que llevarán a bordo complejos laboratorios y cámaras muy sofisticadas para la exploración de otros planetas.
+En noviembre de 1970 los rusos consiguieron el alunizaje del Lunokhod 1, poseía cámaras de televisión, sensores y un pequeño laboratorio, todo era controlado remotamente desde la tierra.
+En Julio de 1976, los norteamericanos aterrizaron en Marte el Viking 1, llevaba a bordo un brazo robotizado, el cual recogía muestras de piedra, tierra y otros elementos que eran analizados en el laboratorio que fue acondicionado en el interior del robot. También contaba con un equipo muy sofisticado de cámaras de vídeo.
+La idea básica sobre Robots Espaciales consiste en utilizar Inteligencia Artificial para enseñar a los robots sobre lo que deben hacer para comportarse de manera semejante a los exploradores humanos. Estos Robots tienen como fin la exploración de la superficie de planetas, ser capaces de pensar por sí mismos sobre posibles obstáculos que puedan encontrar, que tengan la habilidad de recuperarse de eventos inesperados.
+Otro de los conceptos en el diseño de Robots Espaciales es que puedan emular, no solo el proceso de pensamiento y análisis de los humanos en determinar las características del terreno, sino también la habilidad humana de conducir un vehículo en tiempo real.
+ 
+Los Robots Espaciales son utilizados para estudiar con mayor precisión:
+•	Las rocas
+•	El suelo
+•	La atmósfera que se encuentran en el Espacio
+Justamente donde el hombre se ve limitado por sus características físicas y emocionales, ya que pueden estar las 24 horas del día realizando investigaciones sin descanso alguno.
+La NASA ha propuesto que las nuevas generaciones de robots espaciales se alimenten de bacterias como una alternativa a las misiones de energía solar y nuclear de hoy en día.
+Las bacterias podrían proporcionar una fuente de energía de larga duración
+Los expertos de la agencia norteamericana han señalado que las bacterias podrían proporcionar una fuente de energía de larga duración, siempre y cuando la bacteria esté bien alimentada, capaz de sostener una pequeña sonda robótica.
+ 
+Nuestros hogares se están convirtiendo en entornos digitales con múltiples dispositivos conectados como televisiones, computadoras, tabletas, etc. Estos nuevos dispositivos están cambiando la forma de comunicarnos, entretenernos y junto con estos, se empiezan a integrar los robots que limpian, vigilan nuestras casas, o hasta nos hacen compañía. Y que comienzan a ser más habituales en nuestros hogares.
+Los robots domésticos más extendidos son los robots de limpieza. Estos robots ya llevan algún tiempo en el mercado, la novedad es que incorporan en sus últimos modelos cámara y conexión WiFi, lo que nos permite programarlos, controlarlos de manera remota, desde Internet o desde nuestro celular, recibir el flujo de vídeo de lo que está viendo el robot e incluso grabarlo.
+Al principio hubo dos grandes problemas para llevar tal tecnología a la escala doméstica: el volumen de los ordenadores necesarios para hacer funcionar los sistemas, que hacían de estos equipos cualquier cosa, menos portátiles y la cantidad de energía necesaria para hacerlos funcionar.
+La aparición de los microchips, así como de algunos materiales de alta tecnología, cada vez más fuertes y livianos, permitió que funciones complejas fueran manejadas por ordenadores que ocupan escasos centímetros y tienen un peso mínimo.
+ 
+En el ámbito doméstico, los primeros robots que aparecieron fueron ayudantes de cocina y alarmas de seguridad. Luego se popularizaron los robots aspiradores, de ahí en adelante, la carrera no ha parado y nada indica que se vaya a detener en los próximos años. Por el contrario, cada vez se hace más clara la tendencia a incorporar la domótica en los hogares.
+Actualmente podemos definir que los robots del hogar pueden realizar las siguientes tareas:
+•	Aspirar
+•	Limpiar el suelo
+•	Cocinar
+•	Cortar el pasto
+•	Limpiar piscinas
+•	Limpiar cristales
+•	Planchar ropa
+•	Compañeros
+•	Asistentes
+Robots aspiradores
+Hasta ahora los robots de limpieza para el hogar más reconocidos son los robots aspiradores. Popularmente conocidos como rumba debido a la primera marca comercial de estos robots, se trata de robots bastante sencillos que se mueven de manera autónoma, recorren la casa al tiempo que barren, aspiran los desechos y el polvo que encuentran en su camino.
+Robots limpiadores del suelo
+Los robots friegasuelos son otro tipo de robots de limpieza, pero puede decirse que son muy parecidos a los aspiradores. De hecho, muchos también son robots aspiradores. La diferencia es que los robots limpiadores tienen la capacidad de lavar, cepillar el suelo, usan agua y trapean.
+Robots de cocina
+Otro de los grandes segmentos de los robots domésticos es el de los famosos ayudantes o robots de cocina. Se trata de procesadores de alimentos que permiten licuar, batir, trocear, mezclar o amasar los ingredientes de manera automatizada, en muchos, casos también cuentan con función de cocción, de modo que todo es cuestión de colocar los ingredientes y programar las funciones.
+Algunos robots de cocina pueden programarse para que comiencen a funcionar en un horario determinado, como las cafeteras automáticas, claro que las funciones de los robots de cocina son mucho más complejas.
+Robots limpia piscinas
+Los robots limpian piscinas han hecho que el trabajo manual de limpiar los fondos y paredes de las piscinas sea una actividad más simple. Ahora existen robots que recorren el fondo de las piscinas mientras van reciclando el agua, eliminando los desechos que suelen acumularse.
+Son aparatos pesados, dado que se deben mantenerse cerca del fondo. Suelen tener un sistema de orugas en vez de las ruedas convencionales, es decir, están adaptados para el medio subacuático.
+Robots limpiacristales
+Otra de las tareas del hogar que ya pueden sustituir los robots, es limpiar cristales. Este tipo de robots son muy livianos y cuentan con un sistema de succión muy potente que los mantiene unidos a los cristales de las ventanas que van limpiando. Debido a lo delicado de su funcionamiento, se mueven más lentamente que los robots de suelo.
+Tienen un sistema de limpieza que alterna humedad y secado. Además, cuentan con cables de alimentación largos para asegurar que no se quedan sin baterías en mitad del trabajo, lo cual sería fatal, pues una caída podría dañarlos.
+Robots que planchan la ropa
+Son capaces de llevar a cabo el planchado, doblado y hasta el perfumado de paquetes de 12, 15 o 20 prendas en cuestión de minutos.
+El robot usa un brazo en el que se colocan todas las prendas a planchar de una sola vez. Al encenderlo, el sistema elimina las arrugas mediante vapor de agua, luego seca y dobla las prendas apropiadamente. El resultado final es una pila de ropa perfectamente planchada y doblada.
+Robots de compañía
+Los robots de compañía son un segmento particular del robot doméstico y son los más complejos. Son robots inteligentes que pueden ser desde robots cuentacuentos, profesores, de apoyo psicológico e incluso simular una amistad. Los robots de compañía tienen gran variedad de formas y -por supuesto- un software particular para cada caso.
+Muchos de los robots de compañía tienen formas y rostros humanoides,	dado	que	esto	facilita	la	imitación	de expresiones faciales y la interacción con la gente. En algunos casos están diseñados para reconocer las emociones de las personas, bien sea por el tono de voz en que se les habla o porque analizan las expresiones faciales.
+Robots corta pasto
+Para las casas con jardines grandes se ha pensado una	solución	muy	interesante:	los	robots cortacésped.	Funcionan	con	un	principio	muy similar al de los robots de limpieza, aunque suelen ser bastante más caros. Estos robots también tienen	ruedas	y	recorren	el	área	de	manera autónoma.
+Para	las	casas	con	jardines	grandes	se	han implementado	los	robots	corta	pasto,	estos mantienen nivelada la altura del césped. Funcionan con un principio muy similar al de los robots de limpieza, aunque suelen ser bastante más caros. Estos robots también tienen ruedas y recorren el área de manera autónoma.
+Los robots cortan pasto cuentan con un sistema que les permite elaborar el mapa del jardín y calcular la mejor ruta para dejar todo el terreno cortado por igual.
+En la actualidad los robots son muy utilizados en la industria, siendo un elemento indispensable en la mayoría de los procesos de manufactura.
+El robot industrial debido a su naturaleza multifuncional puede llevar a cabo un sin número de tareas, para lo cual es necesario estar dispuesto a admitir cambios en el desarrollo del proceso como modificaciones en el diseño de piezas, sustitución de sistemas etc., que faciliten y hagan posible la implementación del robot.
+En cuanto al tipo de robot a utilizar, se deben considerar por ejemplo velocidad de carga, capacidad de control, etc.
+Uno de los principales usuarios de robots es la industria automotriz. Podemos ver que los robots en la industria pueden hacer trabajos como:
+•	Trabajos de fundición
+•	Transferencia de materiales
+•	Paletización
+•	Carga y descarga de materiales
+•	Operaciones de proceso
+•	Montaje
+•	Control de calidad
+Trabajos en Fundición
+La fundición por inyección fue el primer proceso robotizado en 1960. En este proceso el material utilizado que está en estado líquido es inyectado a presión en un molde, el cual está formado por dos mitades que se mantiene unidas durante la inyección. La pieza solidificada es extraída del molde y enfriada para su posterior desbarbado.
+En la fundición por inyección el robot puede realizar las siguientes tareas:
+•	Extracción de las piezas del molde y transporte de éstas a un sector enfriado y posteriormente a otro proceso (desbarbado, corte, etc).
+•	Limpieza y mantenimiento de los moldes.
+•	Colocación de piezas en el interior de los moldes.
+Aplicación de Transferencia de Material
+Las aplicaciones de transferencia de material se definen como aquellas operaciones en las cuales el objetivo primario es mover una pieza de una posición a otra. Son consideraras entre las operaciones más sencillas o directas de realizar por los robots.
+Para las aplicaciones de transferencia de material se requiere comúnmente un robot poco sofisticado, y los requisitos de enclavamiento con otros equipos son típicamente simples.
+ 
+Paletización
+Es un proceso básicamente de manipulación, que consiste en disponer piezas sobre una plataforma o bandeja, conocida como palet. Estas piezas ocupan posiciones predeterminadas asegurando estabilidad, y facilidad de manipulación.
+Existen diferentes tipos de máquinas que realizan operaciones de paletizado, las que al compararlas frente a un robot presentan ventajas en cuanto a velocidad y costo, no obstante, son rígidas en cuanto a su funcionamiento, siendo incapaces de modificar sus tareas de carga y descarga.
+Sin embargo, los robots pueden realizar con ventaja aplicaciones de paletización, donde la forma, número o características generales de los productos a manipular cambian con cierta frecuencia. En estos casos, un adecuado programa de control permite resolver las operaciones de carga y descarga, optimizando los movimientos del robot, de manera tal que se pueda aprovechar al máximo la capacidad del palet o atender cualquier otro requerimiento.
+ 
+Carga y Descarga de Máquinas.
+El peligro, la monotonía de las operaciones de carga y descarga de máquinas como prensas, estampadoras, hornos o la posibilidad de usar un mismo robot para transferir una pieza a través de diferentes máquinas de procesado, ha llevado a que un gran número de empresas hayan introducido robots en sus talleres.
+Carga de Máquinas: El robot debe de cargar la pieza de trabajo en bruto a los materiales en las máquinas, pero la pieza se extrae a través de otro medio. En una operación de prensado, el robot se puede programar para cargar láminas de metal en la prensa, pero se permite que las piezas acabadas caigan fuera de la prensa por gravedad.
+Descarga de Máquinas: La máquina produce piezas acabadas a partir de materiales en bruto que se cargan directamente en la máquina sin la ayuda de robots. El robot descarga la pieza de la máquina.
+Ejemplos de este caso incluyen aplicaciones de fundición de troquel y moldeado plástico.
+ 
+Operaciones de procesos
+Además de las aplicaciones de manejo de piezas, existe una gran variedad de aplicaciones en las cuales los robots realizan trabajos directamente sobre piezas. Este trabajo generalmente necesita que el efector final del robot sea una herramienta en lugar de una pinza.
+Por tanto, el uso de una herramienta para efectuar el trabajo es una característica distinta de este grupo de aplicaciones. El tipo de herramienta depende de la operación de procesamiento que se realiza.
+Dentro de esta gama de aplicaciones destacan las siguientes:
+•	Soldadura por puntos
+•	Soldadura por arco Continua
+•	Aplicación de materiales
+•	Aplicación de adhesivos y sellantes
+•	Desbarbado
+•	Corte
+•	Operaciones de procesos
+•	Montaje
+•	Control de calidad
+Un robot de entretenimiento puede realizar muchas, diferentes tareas, como cantar y bailar; de acuerdo a las actividades que se dicen, es de notar que el objetivo de estos sistemas entretener a los seres humanos. Este dispositivo se pone en el lugar de los cómicos, los padres, amigos o sustituir una mascota, además puede tener conversaciones con la gente, servir refrescos en los restaurantes, o incluso acompañar a los niños.
+Estos robots de juguete por lo general pueden moverse. Se construyen para entretener usando varias características diferentes. Hay robots de juguete, robots como animales domésticos, robots humanoides y mucho más.
+La industria del entretenimiento siempre va de la mano de nuestro desarrollo tecnológico. Así que hay robots que se utilizan como juegos mecánicos, hay robots animados que entretienen a la gente en diferentes festivales y parques de atracciones. Y, por supuesto, no son juguetes robot.
+ 
+Hay juguetes robóticos con forma de humanoides bípedos. También hay juguetes como perros robóticos, así como cualquier otra cosa que se pueda imaginar.
+Como parte del entretenimiento también podemos considerar las narraciones de ciencia ficción o la industria cinematográfica, el concepto popular de un robot, es que tiene apariencia humana y que actúa como un ser humano. Este concepto de humanoide ha sido inspirado en gran parte a estas áreas. Una de las primeras obras importantes fue una novela de Mary Shelley, con el título de
+Frankenstein.
+La serie de La Guerra de las Galaxias presentaba a los robots como máquinas amistosas e inofensivas. Los robots R2D2 y C3PO son capaces de desplazarse en todas direcciones, son inteligentes y pueden comunicarse con sus dueños humanos.
+Terminator I, Terminator II y Terminator III son algunas producciones que han tenido gran éxito, al igual que El Hombre Bicentenario y Robocop.
+Estas son entre otras, algunas de las producciones cinematográficas donde queda de manifiesto la participación de la robótica en la ciencia ficción. Claramente existen muchas más películas, donde aparecen robot cada vez más sofisticados, tanto en su morfología como en su inteligencia.
+Pero también vemos aplicada la robótica no solo como parte de las historias del cine, también para poder realizar movimientos o adecuaciones para la creación de filmes se utilizan robots para realizar estas tareas, así como también se pueden sustituir actores para que puedan así realizar movimientos, o evitar dañar la integridad de un actor.
+Sin duda, el desarrollo tecnológico tendrá entre sus consecuencias una mayor participación de la robótica en la pantalla grande.
+ 
+Para saber más sobre los temas vistos en esta unidad revisa los siguientes materiales:
+• ¿Dónde se usan los robots?
+Educar Portal. (01 julio 2019). Microaprendizaje: ¿Dónde se usan los robots? [Video]. YouTube.
+https://www.youtube.com/watch?v=QlHnO1tRuYA&t=1s
+• Aplicaciones de la robótica
+Este texto de autor desconocido te ayudara a comprender las diferentes implementaciones de la robótica, encontraras aplicaciones inimaginables.
+https://myunitecedu-
+my.sharepoint.com/:b:/g/personal/pedro_bautista_my_unitec_edu_mx/EQJvjV5VfuxLtTjkKNHw5O4BYR EwE3uvT3lpw9ga-s7ZRA?e=eggYhL
+• Crean robot compañero para la vida diaria
+¿Quisieras tener un compañero que te ayude a hacer la vida más fácil? ¿En cuánto tiempo esta tecnología llegaría a todas las casas del mundo?
+https://www.youtube.com/watch?v=1m5Y291G5Ds
+En conclusión podemos decir que son bastantes amplias las áreas de aplicación de los robots, algunos se destacaron más en este contenido, debido a que en esas áreas se han realizado más desarrollos o son más las aplicaciones que se tienen, como lo es la industria o el área médica, pero no se le resta importancia a las demás áreas, ya que si se hacen mención es debido a que se están generando cada vez más desarrollos que generan gran impacto en la forma en cómo hacemos las cosas en el día a día.
+Es importante conocer las áreas de aplicación de los robots, ya que con ellas podemos tener conciencia sobre la influencia de la tecnología en nuestras vidas, la manera en que repercute y las posibles áreas de oportunidad en las que se puede ver inmiscuido un robot. No hay que dejar de lado que, aunque hay un sin nuero de aplicaciones, nunca se va a buscar que una maquina reemplace a un hombre, debemos buscar un beneficio y estar conscientes de las actividades que se le asignaran al robot, que van más allá de la comodidad para hacer cualquier tipo de trabajo más seguro y veloz.
+¡Felicidades!
+Has concluido la unidad 5, continúa esforzándote.
+•	Aviles, H. y Sucar Enrique. (2002). Dynamic Bayesian networks for visual recognition of dynamic gestures. Journal of Intelligent and Fuzzy Systems, Volume 12.
+•	Educar Portal. (01 julio 2019). Micro-aprendizaje: ¿Dónde se usan los robots? [Video]. YouTube. https://www.youtube.com/watch?v=QlHnO1tRuYA&t=1s
+•	Excelsior TV. (13 de marzo de 2017). Crean robot compañero para la vida diaria. [Video]. YouTube. https://www.youtube.com/watch?v=1m5Y291G5Ds
+•	Russell, S.J. y Norvig, P. (2002). Robotics en Artificial Intelligence: A Moder Approach. Prentice Hall.
+•	Schroeter, J. (2003). Electrical Engineering Handbook. CRC Press and IEEE Press.
+•	Strobel, M. y otros. (2002). Gesture recognition in a spatial context for commanding a domestic service robot. In Proceedings of the 33rd International Symposium on Robotics (ISR).
+•	Vilchis, A. (2001). Ter: a system for robotic tele-echography.
+•	Vilchis, A. y otros. P.C.K.M.F.P.(2003): A new robot architecture for tele-echography. IEEE Transactions on Robotics and Automation.
+ 
+Bienvenido a la unidad 6! 
+De forma general, la tele operación comprende todas aquellas tecnologías que permiten a un ser humano operar a distancia, con aplicación específica a la realización de tareas impredecibles, no repetitivas en ambientes hostiles, inaccesibles. También como tele-operación se entiende la acción propiamente dicha de operar a distancia.
+La tele-operación, puede considerarse hoy en día como una tecnología madura que forma parte de la robótica, aunque sus orígenes fueron distintos. En ambas tecnologías el objetivo fundamental es el realizar el control de un sistema inteligente como lo es un robot, con la diferencia que en la tele-operación es el operador, y no un programa, el que comanda en todo momento al manipulador, con la posibilidad de que existan diversos modos de acoplamiento entre ambos.
+Esta semana está dedicada a proporcionar los fundamentos básicos en tele-operación, los elementos del sistema, su arquitectura, todos aquellos factores que se ven inmiscuidos en la aplicación de esta tecnología. Tanto en la semana 7 como la semana 8 de vera desarrollado este tema.
+“Nunca consideres el estudio como una obligación, 
+sino como una oportunidad para penetrar en el bello y maravilloso mundo del saber” Albert Einstein
+¡Éxito en esta sexta unidad!
+ 
+Al término de esta unidad lograrás:
+•	Evaluar la manera de comunicarse con un robot haciendo uso de la tele-operación, comprendiendo los requerimientos necesarios, la arquitectura del sistema y los factores que intervienen en la implementación de este tipo de sistema.
+•	Corroborará la adquisición de los conocimientos mediante la aplicación de un test que comprenderá los temas visitos durante la semana 6 y 7. 
+Para poder introducirnos en este tema, podemos considerar adecuado definir algunos conceptos, los cuales son los siguientes:
+Tele-operación: Conjunto de tecnologías que comprenden la operación o gobierno a distancia de un dispositivo por un ser humano.
+Es así como podemos decir que, tele-operar es la acción que realiza un ser humano de operar o gobernar a distancia un dispositivo; mientras que un sistema de tele-operación será aquel que permita tele-operar un dispositivo, que se denominará dispositivo tele-operado.
+Tele-manipulación: Conjunto de tecnologías que comprenden la operación o gobierno a distancia por un ser humano de un manipulador.
+De acuerdo a lo anterior tele-manipular es la acción que realiza un ser humano de operar o gobernar a distancia un manipulador, mientras que un sistema de tele-manipulación será aquel que permita tele-operar un manipulador, que se denominará manipulador tele-operado.
+Tele-robótica: Conjunto de tecnologías que comprenden la monitorización y reprogramación a distancia de un robot por un ser humano. Con esto podemos interpretarlo como la tele operación de un robot, que se denominará tele robot o robot tele operado.
+Tele-presencia: Situación o circunstancia que se da cuando un ser humano tiene la sensación de encontrarse físicamente en el lugar remoto. La telepresencia se consigue realimentando coherentemente al ser humano suficiente cantidad de información sobre el entorno remoto.
+Re-alimentación háptica: Re-alimentación de la sensación de contacto, ya sea de tipo táctil o de fuerzas. Es decir, generar la sensación de ser el sistema tele-operado y transmitir la fuerza como el movimiento del operador al sistema tele-operado.
+6.1 Elementos de un sistema de tele-operación
+Un sistema de tele-operación consta de los siguientes elementos:
+•	Operador o tele-operador
+•	Dispositivo tele-operado
+•	Control y canales de comunicación
+•	Interfaz
+•	Sensores	  
+Operador o tele-operador
+Es un ser humano que realiza a distancia el control de la operación. Su función puede ir desde un control continuo hasta una intervención intermitente, con la que únicamente se ocupa de monitorizar y de indicar objetivos y planes cada cierto tiempo.
+ 
+Dispositivo tele-operado
+Podrá ser un manipulador, un robot, un vehículo o dispositivo similar. Es la máquina que trabaja en la zona remota y que está siendo controlada por el operador.
+ 
+Interfaz
+Conjunto de dispositivos que permiten la interacción del operador con el sistema de tele-operación. Se considera al manipulador maestro como parte del interfaz, así como a los monitores de vídeo, o cualquier otro dispositivo que permita al operador mandar información al sistema y recibir información del mismo.
+Un joystick es un elemento muy común en este tipoi de sistemas.
+ 
+Control y canales comunicación
+Conjunto de dispositivos que modulan, transmiten y adaptan el conjunto de señales que se transmiten entre la zona remota y la local. Generalmente se contará con uno o varias unidades de procesamiento.
+Sensores
+Conjunto de dispositivos que recogen la información, tanto de la zona local como de la zona remota, para ser utilizada por el interfaz y el control. Permiten adquirir los estados de los robots, del entorno y las tareas realizadas. Ayudan al operador a percibir el entorno de trabajo y realizar acciones o correcciones de las tareas. Existen diversos sensores que permiten medir las variables presentes en el sistema, por ejemplo, la adquisición de imágenes del entorno, fuerzas y pares presentes en el contacto de la herramienta del robot esclavo y el entorno.
+ 
+
+ 
+Dentro de los elementos de un sistema de tele operación también podemos tomar en cuenta las zonas de trabajo.
+Zona local
+En esta zona se encuentra el operador humano, quien realiza la descripción de las tareas a realizar. Se cuenta con un dispositivo de actuación también llamado manipulador maestro, para generar las trayectorias descritas por el operador para ser mapeadas al robot de la zona remota. Para que el operador pueda percibir el entorno sobre el que está trabajando, es necesario dotar a la interfaz del sistema tele operado, con sensores para la retroalimentación para que el operador pueda tener información de la ejecución de la tarea que se esté realizando.
+Zona remota
+Es el espacio en que se encuentra el manipulador esclavo y el ambiente u objetos sobre los que interactúa, denominado entorno remoto de trabajo. Es importante resaltar que a diferencia del manipulador de la zona local en el que el ambiente de trabajo es conocido por el operador, el entorno de trabajo del robot esclavo es no estructurado, variable o desconocido. Es necesario dotar al sistema de elementos que permitan conocer o determinar la geometría del entorno remoto o de la superficie de los objetos con que se interactúa.
+Canal de comunicación
+Es el medio a través del cual se comunican las zonas local y remota. Estos canales pueden emplear diversos protocolos de comunicación, los cuales son elegidos dependiendo de la distancia entre ambas zonas. Desde protocolos de comunicación serial para distancias cortas, hasta protocolos que utilizan redes locales LAN o inclusive por redes de Internet para distancias largas de comunicación. Existen dos características para la elección del canal de comunicación, el ancho de banda y el retardo de comunicación en la transmisión de información. Ya que de no contar con las especificaciones necesarias el sistema puede volverse inestable.
+ 
+Las diversas arquitecturas de control en tele operación se diferencian básicamente por la información que se intercambia entre el maestro y el esclavo y por el tipo de sensorización que se requiere. En función de la información intercambiada entre el maestro y el esclavo pueden clasificarse en las siguientes categorías:
+•	Esquema Posición-Posición: La posición del esclavo se determina a partir de la del maestro y viceversa. No hay necesidad de sensores de fuerza.
+•	Esquema Fuerza-Posición: La posición del esclavo se determina por seguimiento del robot maestro y las fuerzas que aparecen sobre el esclavo se miden y se generan en el maestro mediante sus motores. Sólo se requiere medida de fuerzas en el esclavo.
+•	Esquema Fuerza-Fuerza: Las trayectorias del maestro y el esclavo se determinan a partir de las lecturas de fuerza de ambos. También existe un control local de posición en ambos robots.
+•	Esquema de Cuatro Canales: En este caso hay intercambio de información tanto en posición como en fuerza. El análisis teórico de esta solución refleja que es capaz de proporciona transparencia infinita.
+Es importante mencionar que los sistemas tele-operados están formados por tres componentes básicos, como se ha mencionado con anterioridad, el manipulador, el controlador y el procesador de datos.
+El manipulador es quien realiza el trabajo físico, consiste en una secuencia de cuerpos rígidos llamados elementos, conectados mediante articulaciones prismáticas o de revolución, cada par articulaciónelemento constituye un grado de libertad. El movimiento es proporcionado por los actuadores, los cuales permiten diversos ejes y alcances del manipulador. La energía con la que se alimentan los actuadores es convertida a energía mecánica.
+Por su parte el controlador está generalmente basado en un microprocesador siendo el corazón de la operación ya que permite el control de los movimientos del manipulador. Y la fuente de energía es la unidad que suministra energía al manipulador y al manipulador, esta puede ser neumática, eléctrica o hidráulica.
+ 
+6.1.3 Tele-operación en robótica
+Los robots tele-operados son definidos por la NASA como:
+Dispositivos robóticos con brazos manipuladores y sensores con cierto grado de movilidad, controlados remotamente por un operador humano de manera directa, o mediante un ordenador.
+En el diseño de Tele-robots se desarrollan y aplican las tecnologías para el funcionamiento dirigido de tele-obots en el espacio y en las aplicaciones terrestres. El tele-robot dirigido, operando en un sitio, utiliza dispositivos de entrada, como la visualización gráfica, planeando las ayudas para ordenar la ejecución de una tarea a un sitio remoto usando un sistema tele-robótico. Las áreas actuales de investigación y desarrollo incluyen:
+•	El manipulador y el mando del robot móvil.
+•	Las arquitecturas del tele-robot remotas.
+•	Procesado, integración, fusión del sistema sensorial.
+•	Tareas interactivas que planea y ejecuta.
+•	La visualización gráfica de las imágenes sobrepuestas.
+•	Multisensor - el mando equilibrado.
+•	Micromecanismos - control para el despliegue de los instrumentos.
+6.1.3 Tele-operación en robótica
+Algunas aplicaciones y ejemplos de los robots tele-operados se mostraran a continuación:
+Los vehículos terrestres no tripulados
+Se emplean principalmente en operaciones militares de reconocimiento de terreno e incursión en zonas peligrosas. El desarrollo de estos proyectos comúnmente es financiado por el departamento de defensa de los países desarrollados. Un ejemplo, es el vehículo tele-operado USMC (US Marine Corp) desarrollado por la compañía Spawar Systems Center (SSC). Este esta compuesto principalmente de tres módulos: movilidad, vigilancia y armas y provisto de cámaras de video y micrófonos para lograr tele presencia.
+ 
+6.1.3 Tele-operación en robótica
+Robots teleoperados de pequeña escala
+Este tipo de robot constituye un resultado de investigaciones realizadas en universidades y centros de investigación y desarrollo. Los robots tele-operados de pequeña escala se desarrollan con propósitos científicos, es el caso de los robots enviados en misiones espaciales, como el Sojourner Rover.
+El Sojourner Rover es un pequeño vehículo robotizado de seis ruedas, construido por el Jet Propulsion Laboratory de la NASA, diseñado para ser enviado a Marte, con capacidad de transmitir imágenes y realizar experimentos en el suelo de Marte. El sistema de alimentación del Rover está compuesto de un arreglo de paneles solares, baterías y una electrónica de potencia para su adecuado manejo y distribución, cuenta con la capacidad de moverse en terrenos difíciles y rocosos, ya que posee seis ruedas dotadas de 3 grados de libertad que le permiten adaptarse a terrenos difíciles.
+ 
+6.1.3 Tele-operación en robótica
+Robots de uso policial para desactivación de bombas
+Los robots tele-operados que se emplean para la manipulación y desactivación de bombas están provistos, en su mayoría, de manipuladores, de una o más cámaras de alta definición, Por tal razón deben tener un alto grado de precisión en el control de manipuladores, también estar dotados de mecanismos de locomoción que permitan afrontar diferentes tipos de terrenos. Estos robots son empleados por la policía o las empresas de seguridad en situaciones en las que se desconfía de paquetes y en la inspección de vehículos sospechosos.
+ 
+6.1.3 Tele-operación en robótica
+Podemos concluir que los robots tele-operados pueden encontrarse en la industria nuclear para el mantenimiento de reactores, en química para el manejo a distancia de sustancias peligrosas o tóxicas, militar en la detección, manipulación y desmantelamiento de cargas explosivas, en el área espacial para exploraciones realizadas en la luna y en marte, también en transbordadores espaciales, en el sector de minería realizando excavaciones, manejo de cargas explosivas en minas y túneles, en el sector de seguridad, para mantenimiento y rescate, inspección de sistemas de alcantarillado y tuberías, reconocimiento de zonas de desastres, tele-cirugía, entre muchas otras áreas.
+6.2 Factores humanos en la tele-operación
+En una aplicación siempre interviene el factor humano y dentro de estos tenemos diferentes factores, para ser específicos son tres, el primero es el factor propio, que es aquel en donde intervienen las capacidades y destrezas del operador.
+El segundo es el factor laboral, que depende de las circunstancias del entorno y del sistema como este conformado, en ocasiones este se ve afectado por el factor propio.
+Por ultimo se tiene los factores externos que son aquellos que no pueden ser controlados un ejemplo de estos puede ser el clima.
+ 
+6.2 Factores humanos en la tele-operación
+Como en todo sistema, o cualquier campo laboral, el factor humano es uno de los aspectos mas importantes a considerar cuando ejecutamos tareas. En la tele-operación debemos de tomar en cuenta:
+•	Características dinámicas del operador
+•	Modelo general de un operador
+•	Modelo crossover
+Esto debido a que al involucrarnos en sistemas inteligentes y controlados remotamente, debemos de contar con capacidades especificas con las que debe de contar un operador, así como también es de suma importancia el adaptar el sistema tele operado con funciones que ayuden al operador y que en algún momento puedan llegar a corregir alguna situación en donde un protocolo de actuación no se este llevando a cabo de manera correcta.
+ 
+6.2.1 Características dinámicas del operador
+Cuando agregamos el termino dinámico, hacemos referencia a la forma en la que se debe de adaptar algo a las condiciones de trabajo, en la tele-operación estas características son:
+•	Conocer sus propias capacidades
+•	Esto es sumamente importante, ya que el operador lleva toda la responsabilidad del sistema y si carece de algo, debe de infórmalo cuanto antes.
+•	Aplicar la retroalimentación o feedback
+•	Esta característica ayuda al operador a estar en constante interacción con el sistema, con la generación de experiencia el operador lograra actuar de la mejor manera a diferentes adversidades que en algún momento ya se les haya presentado.
+•	Aplicar la mejora continua
+•	Un operador debe estar en constante aprendizaje, se debe adaptar a las actualizaciones de software y hardware que se le puedan implementar a un sistema.
+•	Concentración
+•	El operador siempre debe de estar totalmente consiente de cada uno de sus actos y de la información que le proporcionan los sensores del componente tele operado.
+6.2.1 Características dinámicas del operador
+•	Adaptación al entorno
+Equilibran la tradición, el cambio, distinguen y saben adaptarse tanto a un entorno conservador como a un entorno cambiante.
+•	Capacidad de reacción
+Un operador debe de contar con el conocimiento y habilidades necesarias para poder resolver cualquier anomalía que se presente en el sistema.
+ 
+6.2.2 Modelo general de un operador
+Cuando un operador humano controla un tele-manipulador se encuentran dos distintas e inseparables tipos de acción: las acciones físicas de control que son aplicadas al sistema y la información de retroalimentación, el cual es procesado por los sentidos del propio operador, proporcionándole la acción de toma de dicciones. Esta clasificación está basada en si existe información de retroalimentación a la mano del operador, afectando el sistema muscular a un nivel kinestésico, o sólo por retroalimentación visual, por sonido o cualquier otro tipo de información.
+La información visual provee representaciones del estado del sistema y no solo observación del ambiente de trabajo. La retroalimentación visual de la escena del ambiente esclavo puede ser directa o indirecta, usando cámaras de televisión. La retroalimentación kinestésica de posición, fuerza y posiblemente de tacto pone al operador en simbiosis con la tarea a ser ejecutada a distancia, como si él estuviera haciendo el trabajo, lo cual ha dado nacimiento al término tele-simbiosis.
+Está claro que la retroalimentación indirecta involucra la necesidad de un entrenamiento y la falta de calidad tele-simbiótica de una fuerza de retroalimentación.
+Otra información visual y sonora es también útil para el operador y puede ser leída en un panel de instrumentación del sistema. El progreso se ha hecho de acuerdo a la maximización de la interfaz hombre-máquina para la presentación de datos esenciales de emergencia y la presentación en monitores a color.
+6.2.2 Modelo general de un operador
+Con esto podemos decir que un operador debe de presentar el siguiente modelo:
+•	Contar con el conocimiento técnico requerido para el área donde se va a trabajar, no basta solo con saber de tele-operación, un ejemplo claro es el ámbito medico, en donde el operador requiere contar con completo conocimiento medico para poder actuar de la manera correspondiente.
+•	El operador debe de contar con una buena destreza para realizar operaciones.
+•	El análisis de situaciones también se hace presente, ya que aquí es donde se pueden evitar problemas o resolver situaciones. El operador debe de ser muy minucioso al observar el entorno.
+•	El operador debe de contar con un estado de salud bueno, esto repercute para la toma de decisiones y correcto movimiento de los sistemas a tele operar.
+ 
+Cuando hablamos de un modelo crossover o de cruzamiento, estamos hablando de un sistema que puede ser autónomo, pero que a su vez un operador tiene la capacidad de intervenir en las actuaciones del robot a conveniencia.
+Podemos poner como ejemplo un robot explorador, el cual esta programado para realizar investigaciones en lugares en los que se desconozca totalmente el ambiente, dentro de esta programación se implementan protocolos de actuación para poder responder a los diferentes terrenos a los que se pueda enfrentar así como a las inclemencias del tiempo, mas sin embargo un operador a distancia tiene la experiencia y puede identificar cosas en las que aun no se ha programado en el robot, en un caso muy especifico podemos citar la investigación de una zona arqueológica, durante la exploración de una zona así, un arqueólogo puede indicar que se interrumpa el actuar del robot para tomar algún objeto que se pudiera considerar de alta importancia, y con una interfaz haptica se le puede indicar al robot tome la pieza con una fuerza pertinente para no dañar el objeto, otro caso muy similar en donde requerimos controlar totalmente el sistema es en la medicina, recordemos que aun falta desarrollar múltiples protocolos para poder reconocer sensaciones o emociones. Es por esto que la mayoría de los sistemas de tele operación para cirugías, continúan siendo manipuladores, es decir requieren del control total de un operador.
+
+ 
+ 	
+Control por zona local
+
+	 
+
+Sistema embebido (Control automático)
+	
+Operador
+
+Un sistema que busca poder realizar tele operaciones sin la necesidad de interfaces como controles, joysticks o dispositivos de este tipo, son sistemas como los que se desarrollan en la biónica, en los cuales a través de los impulsos cerebrales se pueden decodificar estas señales creadas por el cerebro y as controlar un manipulador, un ejemplo de ello lo podemos observar en el siguiente video.
+Para un modelo crossover también se están introduciendo sistemas con realidad aumentada, recordemos que la realidad aumentada es una tecnología que permite superponer elementos virtuales sobre nuestra visión de la realidad. Con esto podríamos definir en un sistema tele operado si se requiere de la intervención de un operador, esto al recibir información especifica sobre el entorno en donde nos estamos inmiscuyendo.
+ 
+6.3 Elementos de un sistema de tele-operación 
+Los principales objetivos a cumplir de un sistema de control de tele-operación son:
+•	Hacer que el control manual del operador humano sea robusto ante retardos, saturación de los actuadores y otras no linealidades, e incluso ante los propios errores del operador.
+•	Permitir elevadas prestaciones en la tele-operación como lo son la precisión, tiempo de tele-operación o comodidad; haciendo que los bucles de control tengan un comportamiento dinámico apropiado y reduciendo el trabajo del operador.
+•	La reducción del tiempo de tele-operación con el sitio remoto debe ser importante, debido a que la ventana temporal de comunicaciones puede ser limitada.
+•	Brindar al operador información clara, certera y en tiempo real del área remota. La información visual y retroalimentación de esfuerzos es esencial en estos sistemas.
+ 
+Un sistema tele-operado con control unilateral consiste en un robot maestro que controla a un robot esclavo, el cual esta colocado en un ambiente remoto. Cuando los principales parámetros que sirven de referencia para trazar las trayectorias del esclavo son posición y velocidad, se describe un sistema unilateral.
+Podemos declarar que un sistema unilateral cuenta con las siguientes características:
+•	No existe retroalimentación de señal alguna desde el esclavo hacia el maestro.
+•	Solo se puede realizar control en un solo sentido.
+•	El esclavo posee un sistema de control como el de un robot industrial.
+•	Control del esclavo sencillo comparado a la mayoría de los robots industriales.
+ 
+Los componentes del esquema presentado son: Un operador humano; quien describe las trayectorias a seguir, robot maestro; este genera las posiciones, velocidades articulares a mapear, controlador maestro y esclavo; son los encargados de realizar el mapeo, reproducir la trayectoria, respectivamente, canal de comunicación, el espacio de trabajo de la zona remota; que podemos considerar como el entorno de interacción. Este tipo de esquema no cuenta con retroalimentación del ambiente remoto, las señales fluyen en un solo sentido, aunque existen casos en que, al usar un robot industrial que tiene un sensor de fuerza en su herramienta y posee retroalimentación de fuerzas de contacto, sin embargo el control sigue siendo unilateral.
+ 
+Dentro de los distintos tipos de control en tele operación, existe el control bilateral en este encontramos:
+•	Existencia de una realimentación hacia el operador.
+•	Es un sistema donde se pueden implementar arquitecturas simples o complejas.
+•	Se asocian actuadores eléctricos por parte del elemento maestro y aquellos actuadores que pueden generar fuerza o movimiento por parte del elemento esclavo.
+En un modelo básico de un control bilateral intervienen 4 elementos físicos
+1.	El operador.
+2.	El dispositivo maestro manipulado por el operador.
+3.	El manipulador esclavo.
+4.	El entorno.
+ 
+6.3.3 Control de sistemas con retardo temporal
+Cuando se hace necesaria la operación remota de un dispositivo, el algoritmo de control debe cambiarse un poco, puesto que se enfrenta a los retrasos de las señales, tanto de referencia al controlador como de realimentación de fuerza del dispositivo. Esto tiende a complicarse, debido a que en sistemas teleoperados generalmente se desea un control de seguimiento, es decir, no solo se busca la ubicación en una posición fija objetivo, por el contrario se necesita indicar al robot toda una trayectoria a seguir. El control de los sistemas tele-operados maestro-esclavo generalmente incluye dos variables, posición y fuerza, las cuales son implementadas en lazos cerrados entre los dos dispositivos
+ 
+6.3.3 Control de sistemas con retardo temporal
+Cuando los retrasos de señal debidos al canal de comunicación, protocolo o inclusive a la distancia son muy pequeños, se puede obviar este problema al manejarlo como un sistema de control sin retraso; los retrasos de señal son comunes cuando el dispositivo esclavo se encuentra a grandes distancias del dispositivo maestro o cuando el medio de comunicación presenta un ancho de banda muy pequeño para la transmisión de datos.
+La reflexión de fuerza da mayor conocimiento al operario acerca del entorno remoto; aunque cuando los retardos son grandes, el usuario se puede confundir debido a que la información recibida de la realimentación no corresponde con la percibida por medios visuales, presentándose inestabilidad en el conjunto maestro-esclavo. Cuando el retraso es pequeño es posible utilizar una técnica muy común que es mover, luego esperar, en la cual el operario realiza el movimiento después espera a que este se vea reflejado en la pantalla antes de continuar, este es un método válido para retardos menores a 0.3 segundos.
+ 
+6.3.4 Ventajas de un sistema 
+de tele-operación
+Además de las ventajas evidentes que representa para la seguridad de las personas la habilitación de un sistema de operación remota, existen otros importantes impactos como lo son:
+• Productividad y eficiencia: La posibilidad de operar simultáneamente equipos que se encuentran a gran distancia entre sí, sin que el operador deba desplazarse, mejora notablemente la productividad y eficiencia del proceso. Además, el hecho de poder monitorear todos los estados del mismo desde una sola estación de trabajo, convierten al operador en agente importante en la gestión de la producción.
+6.3.4 Ventajas de un sistema de tele-operación
+•	Trazabilidad: A partir de un sistema tele-operado, comienzan a existir registros confiables, tanto históricos como en línea, de los parámetros importantes del proceso, lo que permite un mejor control del mismo, así como el manejo de mayor y mejor información para la toma oportuna de decisiones.
+•	Integración: La posibilidad de integrar un sistema de tele-comando a una plataforma computacional global de la planta, permite enriquecer los modelos productivos y la interacción con el resto de los procesos.
+6.3.5 Factores funcionales de operación
+Los factores funcionales son las condiciones o características que posee el sistema para poder operar.
+Cuando se tiene claro el tipo de control a utilizar y las características a considerar, es necesario especificar los parámetros de comportamiento que son:
+•	Estabilidad del sistema
+•	Tiempo de ejecución y de una tarea
+•	Fuerzas ejercidas sobre el entorno
+•	Numero de errores
+•	Error en posición y fuerza
+•	Transparencia
+•	Opinión subjetiva del operador
+6.3.5 Factores funcionales de operación
+Para una correcta operación e implementación debemos de tomar en cuenta los siguientes criterios para obtener la función de los sistemas tele operados de una manera optima. Estos criterios son:
+•	El alto grado de especialización y por lo tanto la gran variabilidad en cuanto a funcionalidad y estructura física.
+•	Las diferentes combinaciones de vehículos, manipuladores y herramientas.
+•	La gran variedad de infraestructuras de ejecución como lo son procesadores, enlaces de comunicación e interfaces hombre-máquina.
+•	La gran variedad de sensores y actuadores.
+•	Los diferentes tipos de algoritmos de control: desde algoritmos muy simples a otros extremadamente complejos que hacen uso de estrategias de navegación.
+•	Los diferentes grados de autonomía, desde sistemas dirigidos completamente por el operador a robots semi-autónomos.
+•	La presencia de requisitos de tiempo real.
+•	Las implementaciones pueden ser intensivas en hardware o en software con infinidad de posibilidades intermedias.
+•	Por último, la seguridad de estos sistemas es un tema que no se puede obviar.
+6.4 Aplicaciones de la tele-operación
+Aunque por concepto es habitual establecer como campos distintos el control supervisado y la tele programación, en la practica ambos se confunden si se prescinde del momento en el que se realiza la interacción ente el sistema de control y el operador. Podemos decir o establecer que un sistema tele programado es una especialización de un sistema de control supervisado.
+ 
+Un control supervisado funciona de la siguiente manera:
+•	El operador humano mediante el uso de una interfaz, transmite al ordenador encargado de recoger esta información una larga serie de comandos simbólicos, que describen la parte de tarea que se desea realizar.
+•	Al irse generando estas secuencias se transmite al ordenador encargado de controlar el proceso remoto, el cual se encarga de convertir esta información simbólica en instrucciones directamente ejecutables por los distintos dispositivos de manipulación.
+•	De este modo de funcionamiento se deduce que el operador debe traducir los objetivos y distintas estrategias en instrucciones detalladas de forma que este sea capaz de realizar de forma automática la mayor parte de la tarea.
+•	Una vez que los objetivos y los modos de hacer se han transmitido al sistema, el operador debe observar como se va ejecutando e incluso anticiparse ante posibles errores o conflictos que se puedan dar por el modo que se van desarrollando las operaciones.
+•	Un aspecto especialmente importante en la concepción y desarrollo de un sistema de control supervisado es el modo mediante el cual el operador transmite al sistema la información sobre la tarea. Además esta transferencia de información no es unilateral, puesto que también es necesario saber transmitir correctamente la información procesada por el sistema automático al operador humano.
+En 1990 aparece por primera vez el termino de tele-programación, propuesto como una solución intermedia entre los sistemas de control supervisado y la tele operación directa cuando existe un retraso temporal en las comunicaciones. Una primera noción de en que consiste es considerarlo un sistema de control supervisado en el que la programación y la ejecución se realiza de forma ininterrumpida. La finalidad pretendía por este esquema es la de lograr que el operador considere el sistema tele programado como un sistema de tele operación convencional, en el que el retraso entre el entorno local y remoto aparentemente desaparece. De esta forma la realimentación real queda rota, es sustituida por una realimentación virtual por medio de un simulador situado en la zona local. En muchos casos, sistemas tele programados aparecen bajo la denominación de tele operación basada en el modelo clásico de tele operación, o tele programación sensorial.
+Este tipo de programación se ha visto en la practica frenado por la dificultad de su implementación en entornos que no son fuertemente estructurados. Precisamente donde reside la mayor dificultad en la realización de los sistemas de control.
+
+ 
+A finales de los años sesenta y principios de los setenta, la tecnología de la tele-operación alcanzó su mayoría de edad con su utilización en aplicaciones espaciales. Aparecieron nuevos retos y problemas, siendo de especial relevancia la existencia de retrasos temporales en la comunicación entre la zona local y la zona remota.
+La incorporación de los desarrollos de la robótica y la tecnología multimedia han permitido incrementar las capacidades del sistema remoto, especialmente en lo que se refiere a su autonomía, del puesto local de control, mejorando fundamentalmente las prestaciones de la interfaz hombre máquina. Las aplicaciones en el espacio tienen buenas razones para usar la tele-operación como técnica de manipulación remota, algunas de estas razones son:
+•	Seguridad: Todas las operaciones espaciales son de alto riesgo, que pueden ser la causa de muerte para los astronautas.
+•	Costo: El equipo necesario para los pasajeros humanos es mucho mas caro y pesado que un sistema de tele-operación.
+•	Tiempo: Hay muchas misiones que duran muchos años para lograr sus objetivos, que hace que estas misiones sean sin tripulación humana.
+Además este tipo de aplicaciones tienen el reto añadido de tener que trabajar con retardos temporales en las comunicaciones, lo que las hace especialmente problemáticas. Entre sus principales aplicaciones están: experimentación y exploración planetaria normalmente con vehículos tipo rover; mantenimiento y operación de satélites; construcción y mantenimiento de estaciones espaciales.
+El primer vehiculo tele-operado en la luna fue Lunakhod 1 (Rusia), en los principios de los años 70, este vehículo recorrió 10 kilómetros en 11 días de misión, el problema con este tipo de aplicación es que los sistemas de tele-operación experimentan grandes retardos en sus sistemas de telecomunicaciones, aunque de aquí a la luna el retardo sea de solo algunos segundos los sistemas de control en lazo cerrado se vuelven inestables, en este caso se usaba método ''mueve y espera'‘. Un retardo mucho mayor lo sufrió el sistema Sojourner de la NASA, el retardo era de 10 a 20 minutos, el sistema fue tele-operado con éxito durante 7 días marcianos.
+ 
+Para saber más sobre los temas vistos en esta unidad revisa los siguientes materiales:
+• Mono con Brazo
+Bicicanarias. (29 de mayo de 2008). Mono con Brazo. [Video]. YouTube.
+www.youtube.com/watch?v=VCX44RL0YWw
+• Sistemas robóticos teleoperados
+Lectura de complemento para el mejor entendimiento de un sistema tele-operado. Cerón, A. 2005. Sistemas robóticos tele-operados. En: Ciencia e Ingeniería Neogranadina. Universidad Militar Nueva Granada. Nov. Número 015. pp 62-69.
+• Crean en el IPN robot que opera con tele-operación
+Investigadores del CIDETEC del IPN desarrollaron el dispositivo con el objetivo de apoyar tareas en el ámbito militar, industrial nuclear, médica , asistencial o del espacio.
+Azteca Noticias. (8 de nov de 2013). Crean en el IPN robot que opera con tele-operación. [Video].
+YouTube. https://www.youtube.com/watch?v=1m5Y291G5Ds
+La elección de una configuración para la comunicación específica depende de características del proyecto a realizar tales como el tipo de terreno, la velocidad requerida, la distancia a la que se va a operar y el trabajo a realizar. En un control teleoperado se debe buscar hacer que el control manual del operador humano sea robusto ante retardos, saturación de los actuadores y otras no linealidades, e incluso ante los propios errores del operador.
+Otro aspecto fundamental a tomar en cuenta es que en un sistema así se debe brindar al operador información clara, certera y en tiempo real del área remota. La información visual y retroalimentación de esfuerzos es esencial en estos sistemas.
+¡Felicidades! 
+Has concluido la unidad 6, continúa esforzándote.
+•	Azteca Noticias. (8 de nov de 2013). Crean en el IPN robot que opera con tele-operación. [Video]. YouTube. https://www.youtube.com/watch?v=1m5Y291G5Ds
+•	Bicicanarias. (29 de mayo de 2008). Mono con Brazo. [Video]. YouTube. www.youtube.com/watch?v=VCX44RL0YWw
+•	Bogado, J.R. (2007). Control bilateral de robots tele-operados por convergencia de estados. [Tesis de maestría]. Universidad Politécnica de Madrid.
+•	Cerón, A. 2005. Sistemas robóticos tele-operados. En: Ciencia e Ingeniería Neogranadina. Universidad Militar Nueva Granada. Nov. Número 015. pp 62-69. 
+•	Craig, J.J. (2006). Robótica. Prentice Hall.
+•	Elhaij, I. y otros. (2000). Real-time bilateral control of internet-based teleoperation. En: Proceedings of the 3rd World Congress on Intelligent Control and Automation. Vol. 5, pp. 3761–3766.
